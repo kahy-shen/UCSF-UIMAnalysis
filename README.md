@@ -7,4 +7,6 @@ Additionally, early versions of the topic modeling and sentiment analysis models
 
 For visualizations, we utilized the matplotlib.pyplot package, and the relevant code can be found in the "visualization.ipynb" notebook.
 
+A requirements.txt file is included to list all packages I installed in my python-3.9.16 environment.
+
 Should you have any questions or need further clarification, please feel free to reach out to me.
